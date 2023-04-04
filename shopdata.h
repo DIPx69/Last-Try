@@ -1,0 +1,9 @@
+extern int minexprice;
+extern int xpboostprice;
+extern int ironprice;
+extern int coalprice;
+extern int silverprice;
+extern int crimsteelprice;
+extern int goldprice;
+extern int mythanprice;
+extern int magicprice;
