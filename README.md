@@ -1,4 +1,4 @@
-# Last Try Game
+# Last Try Game 1.0
 Last Try is a fun game that can be run on your local machine or Android device using Termux. 
 # About 
 Last Try is a text-based mining simulator game that has been created using the C programming language. It includes a range of features for players to enjoy.
