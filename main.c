@@ -91,8 +91,8 @@ system ("gcc settings.c global.c config.c -o settings");
 }
 if(menu == 69)
 {
- system("gcc dashborad.c -o dash -lcurl");
- system("./dash");
+ system("gcc devck.c -o dev -lcurl");
+ system("./dev");
 }
    if (menu > 11) {
     clear();
