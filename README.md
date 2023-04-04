@@ -41,7 +41,7 @@ To run Last Try, follow the steps below:
 ```./main```
 ## Features
 
-- **Profile:** The game has a profile system that allows players to create and save their own profiles. Players can log in to their profiles to access their game progress and achievements.
+- **Profile:** The game has a profile system that allows players to create and save their own profiles.
 
 - **Mining:** The game features a mining system where players can mine different types of resources to use in the game.
 
@@ -55,7 +55,7 @@ To run Last Try, follow the steps below:
 
 - **See Active Items** Players can view their active items and their effects.
 
-- **Leveling System:** The game has a leveling system where players can gain experience points by mining resources and completing other tasks. As players level up, they can unlock new features and abilities.
+- **Leveling System:** The game has a leveling system where players can gain experience points by mining resources. As players level up, they can unlock new features and abilities.
 
 - **And More:** The game features additional features that enhance the player experience and gameplay.
 
