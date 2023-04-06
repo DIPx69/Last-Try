@@ -27,7 +27,7 @@ void clear() { system("clear"); }
 int main()
 {
  //  system ("gcc miningmenu.c global.c area.c -o miningmenu");
-  printf("[1] My Profile\n\n[2] Daily Bonus\n\n[3] Games\n\n[4] Mining\n\n[5] "
+  printf("[1] My ProfileX\n\n[2] Daily Bonus\n\n[3] Games\n\n[4] Mining\n\n[5] "
          "Auto Mining\n\n[6] Inventory\n\n[7] Shop\n\n[8] Use Item\n\n[9] Active Items\n\n[10] Settings\n\n");
      
   six("Enter Menu Number : ");
