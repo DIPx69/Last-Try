@@ -110,7 +110,7 @@ int main()
 
       if (totalcoin * -1 <= coin) {
         printf("━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
-        minexadd(amount);
+        xpboostadd(amount);
         addcoin(totalcoin);
         printf("You Have Purchased %d XP Boost\n", amount);
         six("━━━━━━━━━━━━━━━━━━━━\n");
